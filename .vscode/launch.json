@@ -9,7 +9,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "program": "${workspaceFolder}/bin/KF-GINS",
+            "program": "${workspaceFolder}/bin/Debug/KF-GINS",
             "args": ["./dataset/kf-gins.yaml"],
             "stopAtEntry": true,
             "environment": [],
